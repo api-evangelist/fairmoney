@@ -1,0 +1,8 @@
+---
+title: FairMoney™ Launch Video
+url: https://fairmoney.com/node/67
+date: '2015-04-19'
+author: andy.lewis
+feed_url: https://fairmoney.com/rss.xml
+---
+Dr Roger Gewolb talks about his Campaign for Fair Finance™ and why he has launched FairMoney.com Video Transcript: I’m Dr Roger Gewolb and I’m here to talk about fairness and the finance industry. Fairness is not something you probably associate these days with finance and the banks. But I think it’s high time that money was fair. The crash of 2008 showed up the tremendous unfairness of the system. It’s led to a situation where we’ve now got as much as 35% or more of the British public categorized as sub-prime borrowers That means far too many families can’t get a loan when they need it at a decent price. And when people are desperate for cash…they can be left to the mercy of unscrupulous and unethical and unfair lenders That’s not right. That’s why I’ve been campaigning for fairer finance And that's why I’m going to do something about it myself now! We’re very soon launching a new, fair loans comparison website called Fairmoney™. It will be unlike any other website. We want people who need cash to always be able to get it and at the best loan rates and terms available whatever their credit history. We will only showcase the most responsible lenders And we’ve put the principle of fairness right at the heart of our business We will drive out unfair practices in the industry simply by giving the customer a better, fairer choice. It’s exactly the sort of thing the regulators are crying out for. It’s not a moral campaign - it's a practical business solution that helps make the loans market fairer. Together we can make money fairer. You’ll be hearing from me.
