@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/fairmoney/integrations
+- https://n8n.io/integrations/fairmoney/
+- https://composio.dev/toolkits/fairmoney
+- https://monid.ai/tools/fairmoney
+checked:
+- https://composio.dev/toolkits/fairmoney
+- https://monid.ai/tools/fairmoney
+- https://n8n.io/integrations/fairmoney/
+- https://zapier.com/apps/fairmoney/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
